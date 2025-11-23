@@ -1,0 +1,14 @@
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\bin\Debug\net8.0\Prática_2_Restaurante.exe
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\bin\Debug\net8.0\Prática_2_Restaurante.deps.json
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\bin\Debug\net8.0\Prática_2_Restaurante.runtimeconfig.json
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\bin\Debug\net8.0\Prática_2_Restaurante.dll
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\bin\Debug\net8.0\Prática_2_Restaurante.pdb
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.AssemblyInfoInputs.cache
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.AssemblyInfo.cs
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.dll
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\refint\Prática_2_Restaurante.dll
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.pdb
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\Prática_2_Restaurante.genruntimeconfig.cache
+C:\Users\queir\source\repos\Prática_2_Restaurante\Prática_2_Restaurante\obj\Debug\net8.0\ref\Prática_2_Restaurante.dll

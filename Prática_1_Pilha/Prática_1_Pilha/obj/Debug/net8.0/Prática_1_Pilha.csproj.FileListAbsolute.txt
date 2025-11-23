@@ -1,0 +1,14 @@
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\bin\Debug\net8.0\Prática_1_Pilha.exe
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\bin\Debug\net8.0\Prática_1_Pilha.deps.json
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\bin\Debug\net8.0\Prática_1_Pilha.runtimeconfig.json
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\bin\Debug\net8.0\Prática_1_Pilha.dll
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\bin\Debug\net8.0\Prática_1_Pilha.pdb
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.AssemblyInfoInputs.cache
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.AssemblyInfo.cs
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.csproj.CoreCompileInputs.cache
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.dll
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\refint\Prática_1_Pilha.dll
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.pdb
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\Prática_1_Pilha.genruntimeconfig.cache
+C:\Users\queir\source\repos\Prática_1_Pilha\Prática_1_Pilha\obj\Debug\net8.0\ref\Prática_1_Pilha.dll

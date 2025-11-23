@@ -1,0 +1,14 @@
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.AssemblyInfoInputs.cache
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.AssemblyInfo.cs
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.csproj.CoreCompileInputs.cache
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\bin\Debug\net8.0\Prática_4_MaxMin.exe
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\bin\Debug\net8.0\Prática_4_MaxMin.deps.json
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\bin\Debug\net8.0\Prática_4_MaxMin.runtimeconfig.json
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\bin\Debug\net8.0\Prática_4_MaxMin.dll
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\bin\Debug\net8.0\Prática_4_MaxMin.pdb
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.dll
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\refint\Prática_4_MaxMin.dll
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.pdb
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\Prática_4_MaxMin.genruntimeconfig.cache
+C:\Users\queir\source\repos\Prática_4_MaxMin\Prática_4_MaxMin\obj\Debug\net8.0\ref\Prática_4_MaxMin.dll

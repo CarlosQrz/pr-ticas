@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prática_4_MaxMin/1.0.0": {
+        "runtime": {
+          "Prática_4_MaxMin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prática_4_MaxMin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
