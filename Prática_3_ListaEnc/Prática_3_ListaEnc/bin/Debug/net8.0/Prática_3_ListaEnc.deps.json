@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prática_3_ListaEnc/1.0.0": {
+        "runtime": {
+          "Prática_3_ListaEnc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prática_3_ListaEnc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

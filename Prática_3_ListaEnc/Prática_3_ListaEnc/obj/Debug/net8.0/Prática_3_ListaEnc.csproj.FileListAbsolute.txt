@@ -1,0 +1,14 @@
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\bin\Debug\net8.0\Prática_3_ListaEnc.exe
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\bin\Debug\net8.0\Prática_3_ListaEnc.deps.json
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\bin\Debug\net8.0\Prática_3_ListaEnc.runtimeconfig.json
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\bin\Debug\net8.0\Prática_3_ListaEnc.dll
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\bin\Debug\net8.0\Prática_3_ListaEnc.pdb
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.AssemblyInfoInputs.cache
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.AssemblyInfo.cs
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.csproj.CoreCompileInputs.cache
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.dll
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\refint\Prática_3_ListaEnc.dll
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.pdb
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\Prática_3_ListaEnc.genruntimeconfig.cache
+C:\Users\queir\source\repos\Prática_3_ListaEnc\Prática_3_ListaEnc\obj\Debug\net8.0\ref\Prática_3_ListaEnc.dll
